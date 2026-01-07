@@ -1,6 +1,3 @@
-# Medical-Insurance-Cost-Prediction
-The project in this file is a machine learning application that aims to predict medical insurance charges using individuals' personal health and demographic data.
-
 # Medical Insurance Cost Prediction
 
 This project is a machine learning analysis designed to predict individual medical insurance costs based on various personal attributes. By analyzing demographic and health-related data, the model aims to estimate healthcare expenses accurately.
